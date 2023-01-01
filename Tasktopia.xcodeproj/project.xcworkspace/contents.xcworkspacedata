@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/anthony/Documents/XCode.nosync/2023-perso-tasktopia-swift/TaskTopia.xcodeproj">
    </FileRef>
 </Workspace>
