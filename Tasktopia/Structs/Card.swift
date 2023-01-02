@@ -10,10 +10,11 @@ import Foundation
 struct Card : Identifiable {
     
     let id = UUID()
-    let front : String
-    let behind : String
+    var front : String
+    var behind : String
     
 }
+
 
 //extension Card {
 //    static let list : [Card] = [
